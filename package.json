@@ -1,0 +1,30 @@
+{
+  "name": "js-hw-10",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tosianosia/js-hw-10",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /js-hw-10/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosianosia/js-hw-10.git"
+  },
+  "keywords": [],
+  "author": "Anatoliy Nosenko <nosia80@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosianosia/js-hw-10/issues"
+  },
+  "dependencies": {
+    "modern-normalize": "^2.0.0"
+  },
+  "devDependencies": {
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.2.7",
+    "parcel": "^2.10.3",
+    "parcel-reporter-clean-dist": "^1.0.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
