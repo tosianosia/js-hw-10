@@ -1,7 +1,7 @@
 {
   "name": "js-hw-10",
   "version": "1.0.0",
-  "description": "Redeploy",
+  "description": "Redeploy-2",
   "homepage": "https://github.com/tosianosia/js-hw-10",
   "scripts": {
     "start": "parcel src/index.html",
